@@ -1,0 +1,10 @@
+C:\Krishna\Docker\cpplib\cppwrapper\bin\Debug\netcoreapp3.1\cppwrapper.deps.json
+C:\Krishna\Docker\cpplib\cppwrapper\bin\Debug\netcoreapp3.1\cppwrapper.dll
+C:\Krishna\Docker\cpplib\cppwrapper\bin\Debug\netcoreapp3.1\cppwrapper.pdb
+C:\Krishna\Docker\cpplib\cppwrapper\obj\Debug\netcoreapp3.1\cppwrapper.AssemblyInfoInputs.cache
+C:\Krishna\Docker\cpplib\cppwrapper\obj\Debug\netcoreapp3.1\cppwrapper.AssemblyInfo.cs
+C:\Krishna\Docker\cpplib\cppwrapper\obj\Debug\netcoreapp3.1\cppwrapper.csproj.CoreCompileInputs.cache
+C:\Krishna\Docker\cpplib\cppwrapper\obj\Debug\netcoreapp3.1\cppwrapper.dll
+C:\Krishna\Docker\cpplib\cppwrapper\obj\Debug\netcoreapp3.1\cppwrapper.pdb
+C:\Krishna\Docker\cpplib\cppwrapper\bin\Debug\netcoreapp3.1\cpplib.dll
+C:\Krishna\Docker\cpplib\cppwrapper\obj\Debug\netcoreapp3.1\cppwrapper.csprojAssemblyReference.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Zjv0gXcXkFEGu/NDg0zQU5GAzWLRpKrUGakDYoulYbILZ41VXBLgsPMyP5XT1TbxVD8fLIzZ4oIrY+TZ5YY8+Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rmakired\\source\\repos\\WinRestApi\\WinRestApi\\WinRestApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rmakired\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.13\\microsoft.visualstudio.azure.containers.tools.targets.1.10.13.nupkg.sha512"
+  ],
+  "logs": []
+}

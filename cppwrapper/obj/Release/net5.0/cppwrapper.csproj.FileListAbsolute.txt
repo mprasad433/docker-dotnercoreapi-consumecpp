@@ -1,0 +1,13 @@
+C:\Users\rmakired\Desktop\cpplib\cppwrapper\bin\Release\net5.0\cpplib.dll
+C:\Users\rmakired\Desktop\cpplib\cppwrapper\bin\Release\net5.0\cppwrapper.deps.json
+C:\Users\rmakired\Desktop\cpplib\cppwrapper\bin\Release\net5.0\cppwrapper.dll
+C:\Users\rmakired\Desktop\cpplib\cppwrapper\bin\Release\net5.0\ref\cppwrapper.dll
+C:\Users\rmakired\Desktop\cpplib\cppwrapper\bin\Release\net5.0\cppwrapper.pdb
+C:\Users\rmakired\Desktop\cpplib\cppwrapper\obj\Release\net5.0\cppwrapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmakired\Desktop\cpplib\cppwrapper\obj\Release\net5.0\cppwrapper.AssemblyInfoInputs.cache
+C:\Users\rmakired\Desktop\cpplib\cppwrapper\obj\Release\net5.0\cppwrapper.AssemblyInfo.cs
+C:\Users\rmakired\Desktop\cpplib\cppwrapper\obj\Release\net5.0\cppwrapper.csproj.CoreCompileInputs.cache
+C:\Users\rmakired\Desktop\cpplib\cppwrapper\obj\Release\net5.0\cppwrapper.dll
+C:\Users\rmakired\Desktop\cpplib\cppwrapper\obj\Release\net5.0\ref\cppwrapper.dll
+C:\Users\rmakired\Desktop\cpplib\cppwrapper\obj\Release\net5.0\cppwrapper.pdb
+C:\Users\rmakired\Desktop\cpplib\cppwrapper\obj\Release\net5.0\cppwrapper.csprojAssemblyReference.cache
